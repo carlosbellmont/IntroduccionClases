@@ -53,4 +53,6 @@ class ClasePersonalizada(){
     fun seHaReiniciado() : Boolean {
         return total == 0
     }
+
 }
+
